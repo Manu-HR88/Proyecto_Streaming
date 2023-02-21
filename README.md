@@ -9,7 +9,7 @@ Aquí encontrarás un [video explicativo](http:video) que resume el trabajo real
 
 ## Contexto
 
-Para este proyecto se presentó un escenario en el los servicios de quien suscribe fueron solicitados por una start-up que provee servicios de agregación de plataformas de streaming. Es un trabajo que contempla la recolección, análisis, transformación y modelación de datos, de cero hasta la conformación del modelo de predicción.
+Para este proyecto se presentó un escenario en donde los servicios de quien suscribe fueron solicitados por una start-up que provee servicios de agregación de plataformas de streaming. Es un trabajo que contempla la recolección, análisis, transformación y modelación de datos, de cero hasta la conformación del modelo de predicción.
 
 ## Objetivos
 
